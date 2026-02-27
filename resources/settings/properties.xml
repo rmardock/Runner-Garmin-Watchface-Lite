@@ -1,0 +1,17 @@
+<properties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    
+    <!-- Properties for element colors -->
+    <property id="TimeColor" type="number">0xe4ff52</property>
+    <property id="BatteryColor" type="number">0xe4ff52</property>
+    <property id="DistanceColor" type="number">0xe4ff52</property>
+    <property id="TempColor" type="number">0xe4ff52</property>
+    <property id="HeartColor" type="number">0xe4ff52</property>
+    <property id="Lines" type="number">0x2a2630</property>
+    <!-- Outline color 0x727f29 -->
+
+    <!-- Property for mileage/steps -->
+    <property id="DisplaySteps" type="boolean">false</property>
+
+    <!-- Property for metric/imperial units -->
+    <property id="Metric" type="boolean">false</property>
+</properties>

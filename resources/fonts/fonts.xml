@@ -1,0 +1,7 @@
+<fonts>
+    <!-- Full filter: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!#$%{@}=: ^()[?]_%.,- -->
+    <font id="futura2XL" antialias="true" filename="futura-2XL.fnt" filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!#$%{@}=: ^()[?]_%.,-" />
+    <font id="futuraXSBI" antialias="true" filename="futura-XS-BI.fnt" filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!#$%{@}=: ^()[?]_%.,-" />
+    <font id="futura2XSBI" antialias="true" filename="futura-2XSBI.fnt" filter="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!#$%{@}=: ^()[?]_%.,-" />
+    <font id="iconFont" antialias="true" filename="garmin-icon-pck-1.3.fnt" filter=" !#$%()*+,-.[]^:=?@|~" />
+</fonts>

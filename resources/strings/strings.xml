@@ -1,0 +1,37 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
+    <!-- App Name -->
+    <string id="AppName">RunGFaceLite</string>
+
+    <!-- Property Titles -->
+    <string id="TimeColor">Time Color</string>
+    <string id="BatteryColor">Battery Color</string>
+    <string id="DistanceColor">Distance Color</string>
+    <string id="TempColor">Temp Color</string>
+    <string id="HeartColor">Heart Rate Color</string>
+    <string id="Lines">Line Color</string>
+    <string id="DisplaySteps">Display Steps</string>
+
+    <!-- Color Titles -->
+    <string id="SpookyOrange">Spooky Orange</string>
+    <string id="SpookyPurple">Spooky Purple</string>
+    <string id="SpookyGreen">Spooky Green</string>
+    <string id="CatppuccinYellow">Catppuccin Yellow</string>
+    <string id="CatppuccinGreen">Catppuccin Green</string>
+    <string id="CatppuccinBlue">Catppuccin Blue</string>
+    <string id="CatppuccinPurple">Catppuccin Purple</string>
+    <string id="CatppuccinRed">Catppuccin Red</string>
+    <string id="White">White</string>
+    <string id="Blue">Blue</string>
+    <string id="Green">Green</string>
+    <string id="Lime">Lime</string>
+    <string id="MutedLime">Muted Lime</string>
+    <string id="DarkGray">Dark Gray</string>
+        
+    <!-- Settings Group Titles -->
+    <string id="elementColorGroup">Element Colors</string>
+
+    <!-- Settings Descriptions -->
+    <string id="elementColorGroupDescription">Use these settings to apply colors to elements individually</string>
+
+</strings>
