@@ -277,19 +277,19 @@ class MinGFaceView extends WatchUi.WatchFace {
     }
 
     //---- Temperature Functions ----//
-    // Function to get the current temperature in Fahrenheit
-    function getTemp() as Float 
+    // Function to get current temperature as string 
+    function getTempString() as String 
     {
         var currConditions = Toybox.Weather.getCurrentConditions();
         var tempC = currConditions.temperature;
         var tempF = (tempC * 1.8) + 32;
-        return tempF;
-    }
+        var tempString = "";
+        
+        if(tempF == null) {
+            return "--";   
+        }
 
-    // Function to get current temperature as string 
-    function getTempString() as String 
-    {
-        var tempString = getTemp().format("%.0f");
+        tempString = tempF.format("%.0f");
         return tempString;
     }
 
