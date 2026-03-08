@@ -17,8 +17,8 @@
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceDelegate.mc" id="6" lineNum="26" parent="globals/MinGFaceDelegate" pc="268435614" symbol="onPress"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceDelegate.mc" id="7" lineNum="8" parent="globals/MinGFaceDelegate" pc="268435616" symbol="initialize"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceDelegate.mc" id="7" lineNum="10" parent="globals/MinGFaceDelegate" pc="268435618" symbol="initialize"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="10" lineNum="299" parent="globals/MinGFaceView" pc="268435631" symbol="getBatteryStatus"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="10" lineNum="301" parent="globals/MinGFaceView" pc="268435633" symbol="getBatteryStatus"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="10" lineNum="297" parent="globals/MinGFaceView" pc="268435631" symbol="getBatteryStatus"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="10" lineNum="299" parent="globals/MinGFaceView" pc="268435633" symbol="getBatteryStatus"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="11" lineNum="17" parent="globals/MinGFaceView" pc="268435649" symbol="onLayout"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="12" lineNum="126" parent="globals/MinGFaceView" pc="268435652" symbol="getTime"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="12" lineNum="128" parent="globals/MinGFaceView" pc="268435655" symbol="getTime"/>
@@ -47,117 +47,115 @@
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="281" parent="globals/MinGFaceView" pc="268435878" symbol="getTempString"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="283" parent="globals/MinGFaceView" pc="268435881" symbol="getTempString"/>
         <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="284" parent="globals/MinGFaceView" pc="268435893" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="285" parent="globals/MinGFaceView" pc="268435901" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="286" parent="globals/MinGFaceView" pc="268435914" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="288" parent="globals/MinGFaceView" pc="268435921" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="289" parent="globals/MinGFaceView" pc="268435927" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="292" parent="globals/MinGFaceView" pc="268435936" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="293" parent="globals/MinGFaceView" pc="268435952" symbol="getTempString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="259" parent="globals/MinGFaceView" pc="268435955" symbol="getHeartRate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="261" parent="globals/MinGFaceView" pc="268435958" symbol="getHeartRate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="262" parent="globals/MinGFaceView" pc="268435975" symbol="getHeartRate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="266" parent="globals/MinGFaceView" pc="268435988" symbol="getHeartRateString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="268" parent="globals/MinGFaceView" pc="268435991" symbol="getHeartRateString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="269" parent="globals/MinGFaceView" pc="268435999" symbol="getHeartRateString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="271" parent="globals/MinGFaceView" pc="268436021" symbol="getHeartRateString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="275" parent="globals/MinGFaceView" pc="268436030" symbol="getHeartRateString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="237" parent="globals/MinGFaceView" pc="268436047" symbol="getDistanceLabel"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="239" parent="globals/MinGFaceView" pc="268436050" symbol="getDistanceLabel"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="240" parent="globals/MinGFaceView" pc="268436077" symbol="getDistanceLabel"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="194" parent="globals/MinGFaceView" pc="268436080" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="195" parent="globals/MinGFaceView" pc="268436083" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="196" parent="globals/MinGFaceView" pc="268436086" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="198" parent="globals/MinGFaceView" pc="268436101" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="199" parent="globals/MinGFaceView" pc="268436113" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="201" parent="globals/MinGFaceView" pc="268436126" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="202" parent="globals/MinGFaceView" pc="268436135" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="204" parent="globals/MinGFaceView" pc="268436143" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="206" parent="globals/MinGFaceView" pc="268436149" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="208" parent="globals/MinGFaceView" pc="268436173" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="210" parent="globals/MinGFaceView" pc="268436203" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="213" parent="globals/MinGFaceView" pc="268436221" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="217" parent="globals/MinGFaceView" pc="268436239" symbol="getWeeklyRunningDistance"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="22" lineNum="244" parent="globals/MinGFaceView" pc="268436242" symbol="getSteps"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="22" lineNum="245" parent="globals/MinGFaceView" pc="268436244" symbol="getSteps"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="23" lineNum="305" parent="globals/MinGFaceView" pc="268436260" symbol="getBattery"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="23" lineNum="307" parent="globals/MinGFaceView" pc="268436262" symbol="getBattery"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="24" lineNum="311" parent="globals/MinGFaceView" pc="268436278" symbol="getBatteryString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="24" lineNum="313" parent="globals/MinGFaceView" pc="268436280" symbol="getBatteryString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="25" lineNum="12" parent="globals/MinGFaceView" pc="268436306" symbol="initialize"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="25" lineNum="13" parent="globals/MinGFaceView" pc="268436308" symbol="initialize"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="28" parent="globals/MinGFaceView" pc="268436321" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="31" parent="globals/MinGFaceView" pc="268436324" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="32" parent="globals/MinGFaceView" pc="268436343" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="33" parent="globals/MinGFaceView" pc="268436362" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="34" parent="globals/MinGFaceView" pc="268436381" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="35" parent="globals/MinGFaceView" pc="268436400" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="36" parent="globals/MinGFaceView" pc="268436419" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="37" parent="globals/MinGFaceView" pc="268436438" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="40" parent="globals/MinGFaceView" pc="268436442" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="41" parent="globals/MinGFaceView" pc="268436471" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="42" parent="globals/MinGFaceView" pc="268436500" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="43" parent="globals/MinGFaceView" pc="268436529" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="46" parent="globals/MinGFaceView" pc="268436558" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="49" parent="globals/MinGFaceView" pc="268436577" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="52" parent="globals/MinGFaceView" pc="268436581" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="53" parent="globals/MinGFaceView" pc="268436590" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="56" parent="globals/MinGFaceView" pc="268436599" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="57" parent="globals/MinGFaceView" pc="268436607" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="58" parent="globals/MinGFaceView" pc="268436615" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="59" parent="globals/MinGFaceView" pc="268436623" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="60" parent="globals/MinGFaceView" pc="268436631" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="61" parent="globals/MinGFaceView" pc="268436638" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="62" parent="globals/MinGFaceView" pc="268436646" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="63" parent="globals/MinGFaceView" pc="268436654" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="64" parent="globals/MinGFaceView" pc="268436661" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="65" parent="globals/MinGFaceView" pc="268436669" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="68" parent="globals/MinGFaceView" pc="268436676" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="69" parent="globals/MinGFaceView" pc="268436688" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="72" parent="globals/MinGFaceView" pc="268436696" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="73" parent="globals/MinGFaceView" pc="268436710" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="74" parent="globals/MinGFaceView" pc="268436722" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="77" parent="globals/MinGFaceView" pc="268436733" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="80" parent="globals/MinGFaceView" pc="268436767" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="83" parent="globals/MinGFaceView" pc="268436801" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="86" parent="globals/MinGFaceView" pc="268436835" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="89" parent="globals/MinGFaceView" pc="268436885" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="90" parent="globals/MinGFaceView" pc="268436899" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="91" parent="globals/MinGFaceView" pc="268436931" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="94" parent="globals/MinGFaceView" pc="268436963" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="95" parent="globals/MinGFaceView" pc="268436977" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="98" parent="globals/MinGFaceView" pc="268437009" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="101" parent="globals/MinGFaceView" pc="268437023" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="103" parent="globals/MinGFaceView" pc="268437029" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="104" parent="globals/MinGFaceView" pc="268437061" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="108" parent="globals/MinGFaceView" pc="268437096" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="110" parent="globals/MinGFaceView" pc="268437101" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="111" parent="globals/MinGFaceView" pc="268437133" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="115" parent="globals/MinGFaceView" pc="268437168" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="116" parent="globals/MinGFaceView" pc="268437182" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="119" parent="globals/MinGFaceView" pc="268437214" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="120" parent="globals/MinGFaceView" pc="268437228" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="121" parent="globals/MinGFaceView" pc="268437260" symbol="onUpdate"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="158" parent="globals/MinGFaceView" pc="268437293" symbol="getMinString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="160" parent="globals/MinGFaceView" pc="268437296" symbol="getMinString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="162" parent="globals/MinGFaceView" pc="268437309" symbol="getMinString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="168" parent="globals/MinGFaceView" pc="268437349" symbol="getMinString"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="173" parent="globals/MinGFaceView" pc="268437352" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="174" parent="globals/MinGFaceView" pc="268437355" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="175" parent="globals/MinGFaceView" pc="268437395" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="176" parent="globals/MinGFaceView" pc="268437412" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="178" parent="globals/MinGFaceView" pc="268437416" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="179" parent="globals/MinGFaceView" pc="268437428" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="181" parent="globals/MinGFaceView" pc="268437439" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="184" parent="globals/MinGFaceView" pc="268437451" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="190" parent="globals/MinGFaceView" pc="268437462" symbol="getWeekStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="30" lineNum="12" parent="globals/MinGFaceApp" pc="268437501" symbol="onStart"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="31" lineNum="25" parent="globals/MinGFaceApp" pc="268437504" symbol="onSettingsChanged"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="31" lineNum="26" parent="globals/MinGFaceApp" pc="268437506" symbol="onSettingsChanged"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="32" lineNum="20" parent="globals/MinGFaceApp" pc="268437518" symbol="getInitialView"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="32" lineNum="21" parent="globals/MinGFaceApp" pc="268437520" symbol="getInitialView"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="33" lineNum="7" parent="globals/MinGFaceApp" pc="268437567" symbol="initialize"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="33" lineNum="8" parent="globals/MinGFaceApp" pc="268437569" symbol="initialize"/>
-        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="34" lineNum="16" parent="globals/MinGFaceApp" pc="268437582" symbol="onStop"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="285" parent="globals/MinGFaceView" pc="268435900" symbol="getTempString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="286" parent="globals/MinGFaceView" pc="268435917" symbol="getTempString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="289" parent="globals/MinGFaceView" pc="268435951" symbol="getTempString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="16" lineNum="291" parent="globals/MinGFaceView" pc="268435958" symbol="getTempString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="259" parent="globals/MinGFaceView" pc="268435961" symbol="getHeartRate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="261" parent="globals/MinGFaceView" pc="268435964" symbol="getHeartRate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="17" lineNum="262" parent="globals/MinGFaceView" pc="268435981" symbol="getHeartRate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="266" parent="globals/MinGFaceView" pc="268435994" symbol="getHeartRateString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="268" parent="globals/MinGFaceView" pc="268435997" symbol="getHeartRateString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="269" parent="globals/MinGFaceView" pc="268436005" symbol="getHeartRateString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="271" parent="globals/MinGFaceView" pc="268436027" symbol="getHeartRateString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="18" lineNum="275" parent="globals/MinGFaceView" pc="268436036" symbol="getHeartRateString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="237" parent="globals/MinGFaceView" pc="268436053" symbol="getDistanceLabel"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="239" parent="globals/MinGFaceView" pc="268436056" symbol="getDistanceLabel"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="19" lineNum="240" parent="globals/MinGFaceView" pc="268436083" symbol="getDistanceLabel"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="194" parent="globals/MinGFaceView" pc="268436086" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="195" parent="globals/MinGFaceView" pc="268436089" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="196" parent="globals/MinGFaceView" pc="268436092" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="198" parent="globals/MinGFaceView" pc="268436107" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="199" parent="globals/MinGFaceView" pc="268436119" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="201" parent="globals/MinGFaceView" pc="268436132" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="202" parent="globals/MinGFaceView" pc="268436141" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="204" parent="globals/MinGFaceView" pc="268436149" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="206" parent="globals/MinGFaceView" pc="268436155" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="208" parent="globals/MinGFaceView" pc="268436179" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="210" parent="globals/MinGFaceView" pc="268436209" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="213" parent="globals/MinGFaceView" pc="268436227" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="21" lineNum="217" parent="globals/MinGFaceView" pc="268436245" symbol="getWeeklyRunningDistance"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="22" lineNum="244" parent="globals/MinGFaceView" pc="268436248" symbol="getSteps"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="22" lineNum="245" parent="globals/MinGFaceView" pc="268436250" symbol="getSteps"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="23" lineNum="303" parent="globals/MinGFaceView" pc="268436266" symbol="getBattery"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="23" lineNum="305" parent="globals/MinGFaceView" pc="268436268" symbol="getBattery"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="24" lineNum="309" parent="globals/MinGFaceView" pc="268436284" symbol="getBatteryString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="24" lineNum="311" parent="globals/MinGFaceView" pc="268436286" symbol="getBatteryString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="25" lineNum="12" parent="globals/MinGFaceView" pc="268436312" symbol="initialize"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="25" lineNum="13" parent="globals/MinGFaceView" pc="268436314" symbol="initialize"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="28" parent="globals/MinGFaceView" pc="268436327" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="31" parent="globals/MinGFaceView" pc="268436330" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="32" parent="globals/MinGFaceView" pc="268436349" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="33" parent="globals/MinGFaceView" pc="268436368" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="34" parent="globals/MinGFaceView" pc="268436387" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="35" parent="globals/MinGFaceView" pc="268436406" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="36" parent="globals/MinGFaceView" pc="268436425" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="37" parent="globals/MinGFaceView" pc="268436444" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="40" parent="globals/MinGFaceView" pc="268436448" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="41" parent="globals/MinGFaceView" pc="268436477" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="42" parent="globals/MinGFaceView" pc="268436506" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="43" parent="globals/MinGFaceView" pc="268436535" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="46" parent="globals/MinGFaceView" pc="268436564" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="49" parent="globals/MinGFaceView" pc="268436583" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="52" parent="globals/MinGFaceView" pc="268436587" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="53" parent="globals/MinGFaceView" pc="268436596" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="56" parent="globals/MinGFaceView" pc="268436605" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="57" parent="globals/MinGFaceView" pc="268436613" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="58" parent="globals/MinGFaceView" pc="268436621" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="59" parent="globals/MinGFaceView" pc="268436629" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="60" parent="globals/MinGFaceView" pc="268436637" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="61" parent="globals/MinGFaceView" pc="268436644" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="62" parent="globals/MinGFaceView" pc="268436652" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="63" parent="globals/MinGFaceView" pc="268436660" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="64" parent="globals/MinGFaceView" pc="268436667" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="65" parent="globals/MinGFaceView" pc="268436675" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="68" parent="globals/MinGFaceView" pc="268436682" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="69" parent="globals/MinGFaceView" pc="268436694" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="72" parent="globals/MinGFaceView" pc="268436702" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="73" parent="globals/MinGFaceView" pc="268436716" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="74" parent="globals/MinGFaceView" pc="268436728" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="77" parent="globals/MinGFaceView" pc="268436739" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="80" parent="globals/MinGFaceView" pc="268436773" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="83" parent="globals/MinGFaceView" pc="268436807" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="86" parent="globals/MinGFaceView" pc="268436841" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="89" parent="globals/MinGFaceView" pc="268436891" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="90" parent="globals/MinGFaceView" pc="268436905" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="91" parent="globals/MinGFaceView" pc="268436937" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="94" parent="globals/MinGFaceView" pc="268436969" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="95" parent="globals/MinGFaceView" pc="268436983" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="98" parent="globals/MinGFaceView" pc="268437015" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="101" parent="globals/MinGFaceView" pc="268437029" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="103" parent="globals/MinGFaceView" pc="268437035" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="104" parent="globals/MinGFaceView" pc="268437067" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="108" parent="globals/MinGFaceView" pc="268437102" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="110" parent="globals/MinGFaceView" pc="268437107" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="111" parent="globals/MinGFaceView" pc="268437139" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="115" parent="globals/MinGFaceView" pc="268437174" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="116" parent="globals/MinGFaceView" pc="268437188" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="119" parent="globals/MinGFaceView" pc="268437220" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="120" parent="globals/MinGFaceView" pc="268437234" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="27" lineNum="121" parent="globals/MinGFaceView" pc="268437266" symbol="onUpdate"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="158" parent="globals/MinGFaceView" pc="268437299" symbol="getMinString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="160" parent="globals/MinGFaceView" pc="268437302" symbol="getMinString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="162" parent="globals/MinGFaceView" pc="268437315" symbol="getMinString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="28" lineNum="168" parent="globals/MinGFaceView" pc="268437355" symbol="getMinString"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="173" parent="globals/MinGFaceView" pc="268437358" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="174" parent="globals/MinGFaceView" pc="268437361" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="175" parent="globals/MinGFaceView" pc="268437401" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="176" parent="globals/MinGFaceView" pc="268437418" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="178" parent="globals/MinGFaceView" pc="268437422" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="179" parent="globals/MinGFaceView" pc="268437434" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="181" parent="globals/MinGFaceView" pc="268437445" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="184" parent="globals/MinGFaceView" pc="268437457" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceView.mc" id="29" lineNum="190" parent="globals/MinGFaceView" pc="268437468" symbol="getWeekStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="30" lineNum="12" parent="globals/MinGFaceApp" pc="268437507" symbol="onStart"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="31" lineNum="25" parent="globals/MinGFaceApp" pc="268437510" symbol="onSettingsChanged"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="31" lineNum="26" parent="globals/MinGFaceApp" pc="268437512" symbol="onSettingsChanged"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="32" lineNum="20" parent="globals/MinGFaceApp" pc="268437524" symbol="getInitialView"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="32" lineNum="21" parent="globals/MinGFaceApp" pc="268437526" symbol="getInitialView"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="33" lineNum="7" parent="globals/MinGFaceApp" pc="268437573" symbol="initialize"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="33" lineNum="8" parent="globals/MinGFaceApp" pc="268437575" symbol="initialize"/>
+        <entry filename="/home/ry/dev/Runner-Garmin-Watchface-Lite/source/MinGFaceApp.mc" id="34" lineNum="16" parent="globals/MinGFaceApp" pc="268437588" symbol="onStop"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -252,50 +250,48 @@
         <entry endPc="268435831" name="hourString" stackId="2" startPc="268435719"/>
         <entry endPc="268435877" name="dist" stackId="1" startPc="268435835"/>
         <entry endPc="268435877" name="miles" stackId="2" startPc="268435835"/>
-        <entry endPc="268435954" name="currConditions" stackId="1" startPc="268435881"/>
-        <entry endPc="268435954" name="tempC" stackId="2" startPc="268435881"/>
-        <entry endPc="268435954" name="tempF" stackId="3" startPc="268435881"/>
-        <entry endPc="268435954" name="tempString" stackId="4" startPc="268435881"/>
-        <entry endPc="268435987" name="heartRateI" stackId="1" startPc="268435958"/>
-        <entry endPc="268436045" name="hr" stackId="1" startPc="268435991"/>
-        <entry endPc="268436079" name="milesString" stackId="1" startPc="268436050"/>
-        <entry endPc="268436241" name="dist" stackId="1" startPc="268436083"/>
-        <entry endPc="268436235" name="i" stackId="2" startPc="268436101"/>
-        <entry endPc="268436232" name="next" stackId="3" startPc="268436126"/>
-        <entry endPc="268436232" name="weekStart" stackId="4" startPc="268436126"/>
-        <entry arg="true" endPc="268437292" name="dc" stackId="1" startPc="268436321"/>
-        <entry endPc="268437291" name="timeColor" stackId="2" startPc="268436324"/>
-        <entry endPc="268437291" name="batteryColor" stackId="3" startPc="268436324"/>
-        <entry endPc="268437291" name="distanceColor" stackId="4" startPc="268436324"/>
-        <entry endPc="268437291" name="tempColor" stackId="5" startPc="268436324"/>
-        <entry endPc="268437291" name="heartColor" stackId="6" startPc="268436324"/>
-        <entry endPc="268437291" name="lines" stackId="7" startPc="268436324"/>
-        <entry endPc="268437291" name="transparent" stackId="8" startPc="268436324"/>
-        <entry endPc="268437291" name="futura2XL" stackId="9" startPc="268436324"/>
-        <entry endPc="268437291" name="futuraXSBI" stackId="10" startPc="268436324"/>
-        <entry endPc="268437291" name="futura2SXBI" stackId="11" startPc="268436324"/>
-        <entry endPc="268437291" name="iconFont" stackId="12" startPc="268436324"/>
-        <entry endPc="268437291" name="displaySteps" stackId="13" startPc="268436324"/>
-        <entry endPc="268437291" name="justification" stackId="14" startPc="268436324"/>
-        <entry endPc="268437291" name="percX" stackId="15" startPc="268436324"/>
-        <entry endPc="268437291" name="percY" stackId="16" startPc="268436324"/>
-        <entry endPc="268437291" name="hourLabel" stackId="17" startPc="268436324"/>
-        <entry endPc="268437291" name="minLabel" stackId="18" startPc="268436324"/>
-        <entry endPc="268437291" name="batteryLabel" stackId="19" startPc="268436324"/>
-        <entry endPc="268437291" name="distanceLabel" stackId="20" startPc="268436324"/>
-        <entry endPc="268437291" name="distanceIcon" stackId="21" startPc="268436324"/>
-        <entry endPc="268437291" name="heartLabel" stackId="22" startPc="268436324"/>
-        <entry endPc="268437291" name="stepsLabel" stackId="23" startPc="268436324"/>
-        <entry endPc="268437291" name="stepsIcon" stackId="24" startPc="268436324"/>
-        <entry endPc="268437291" name="tempLabel" stackId="25" startPc="268436324"/>
-        <entry endPc="268437291" name="tempSymbol" stackId="26" startPc="268436324"/>
-        <entry endPc="268437351" name="min" stackId="1" startPc="268437296"/>
-        <entry endPc="268437351" name="minString" stackId="2" startPc="268437296"/>
-        <entry endPc="268437500" name="today" stackId="1" startPc="268437355"/>
-        <entry endPc="268437500" name="info" stackId="2" startPc="268437355"/>
-        <entry endPc="268437500" name="firstDayOfWeek" stackId="3" startPc="268437355"/>
-        <entry endPc="268437500" name="settings" stackId="4" startPc="268437355"/>
-        <entry endPc="268437500" name="days" stackId="5" startPc="268437355"/>
+        <entry endPc="268435960" name="currConditions" stackId="1" startPc="268435881"/>
+        <entry endPc="268435960" name="tempF" stackId="2" startPc="268435881"/>
+        <entry endPc="268435993" name="heartRateI" stackId="1" startPc="268435964"/>
+        <entry endPc="268436051" name="hr" stackId="1" startPc="268435997"/>
+        <entry endPc="268436085" name="milesString" stackId="1" startPc="268436056"/>
+        <entry endPc="268436247" name="dist" stackId="1" startPc="268436089"/>
+        <entry endPc="268436241" name="i" stackId="2" startPc="268436107"/>
+        <entry endPc="268436238" name="next" stackId="3" startPc="268436132"/>
+        <entry endPc="268436238" name="weekStart" stackId="4" startPc="268436132"/>
+        <entry arg="true" endPc="268437298" name="dc" stackId="1" startPc="268436327"/>
+        <entry endPc="268437297" name="timeColor" stackId="2" startPc="268436330"/>
+        <entry endPc="268437297" name="batteryColor" stackId="3" startPc="268436330"/>
+        <entry endPc="268437297" name="distanceColor" stackId="4" startPc="268436330"/>
+        <entry endPc="268437297" name="tempColor" stackId="5" startPc="268436330"/>
+        <entry endPc="268437297" name="heartColor" stackId="6" startPc="268436330"/>
+        <entry endPc="268437297" name="lines" stackId="7" startPc="268436330"/>
+        <entry endPc="268437297" name="transparent" stackId="8" startPc="268436330"/>
+        <entry endPc="268437297" name="futura2XL" stackId="9" startPc="268436330"/>
+        <entry endPc="268437297" name="futuraXSBI" stackId="10" startPc="268436330"/>
+        <entry endPc="268437297" name="futura2SXBI" stackId="11" startPc="268436330"/>
+        <entry endPc="268437297" name="iconFont" stackId="12" startPc="268436330"/>
+        <entry endPc="268437297" name="displaySteps" stackId="13" startPc="268436330"/>
+        <entry endPc="268437297" name="justification" stackId="14" startPc="268436330"/>
+        <entry endPc="268437297" name="percX" stackId="15" startPc="268436330"/>
+        <entry endPc="268437297" name="percY" stackId="16" startPc="268436330"/>
+        <entry endPc="268437297" name="hourLabel" stackId="17" startPc="268436330"/>
+        <entry endPc="268437297" name="minLabel" stackId="18" startPc="268436330"/>
+        <entry endPc="268437297" name="batteryLabel" stackId="19" startPc="268436330"/>
+        <entry endPc="268437297" name="distanceLabel" stackId="20" startPc="268436330"/>
+        <entry endPc="268437297" name="distanceIcon" stackId="21" startPc="268436330"/>
+        <entry endPc="268437297" name="heartLabel" stackId="22" startPc="268436330"/>
+        <entry endPc="268437297" name="stepsLabel" stackId="23" startPc="268436330"/>
+        <entry endPc="268437297" name="stepsIcon" stackId="24" startPc="268436330"/>
+        <entry endPc="268437297" name="tempLabel" stackId="25" startPc="268436330"/>
+        <entry endPc="268437297" name="tempSymbol" stackId="26" startPc="268436330"/>
+        <entry endPc="268437357" name="min" stackId="1" startPc="268437302"/>
+        <entry endPc="268437357" name="minString" stackId="2" startPc="268437302"/>
+        <entry endPc="268437506" name="today" stackId="1" startPc="268437361"/>
+        <entry endPc="268437506" name="info" stackId="2" startPc="268437361"/>
+        <entry endPc="268437506" name="firstDayOfWeek" stackId="3" startPc="268437361"/>
+        <entry endPc="268437506" name="settings" stackId="4" startPc="268437361"/>
+        <entry endPc="268437506" name="days" stackId="5" startPc="268437361"/>
     </localVars>
     <deviceInfo deviceVersion="810ede84fd9ce09eefda5d76cb08298db48e456c" partNumber="006-B4433-00"/>
     <annotations>
@@ -396,63 +392,63 @@
         <functionEntry accessMode="public" endPc="268435877" name="getWeeklyRunDistanceMiles" parent="MinGFaceView" startPc="268435832">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435954" name="getTempString" parent="MinGFaceView" startPc="268435878">
+        <functionEntry accessMode="public" endPc="268435960" name="getTempString" parent="MinGFaceView" startPc="268435878">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435987" name="getHeartRate" parent="MinGFaceView" startPc="268435955">
+        <functionEntry accessMode="public" endPc="268435993" name="getHeartRate" parent="MinGFaceView" startPc="268435961">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436046" name="getHeartRateString" parent="MinGFaceView" startPc="268435988">
+        <functionEntry accessMode="public" endPc="268436052" name="getHeartRateString" parent="MinGFaceView" startPc="268435994">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436079" name="getDistanceLabel" parent="MinGFaceView" startPc="268436047">
+        <functionEntry accessMode="public" endPc="268436085" name="getDistanceLabel" parent="MinGFaceView" startPc="268436053">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="MinGFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436241" name="getWeeklyRunningDistance" parent="MinGFaceView" startPc="268436080">
+        <functionEntry accessMode="public" endPc="268436247" name="getWeeklyRunningDistance" parent="MinGFaceView" startPc="268436086">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436259" name="getSteps" parent="MinGFaceView" startPc="268436242">
+        <functionEntry accessMode="public" endPc="268436265" name="getSteps" parent="MinGFaceView" startPc="268436248">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436277" name="getBattery" parent="MinGFaceView" startPc="268436260">
+        <functionEntry accessMode="public" endPc="268436283" name="getBattery" parent="MinGFaceView" startPc="268436266">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436305" name="getBatteryString" parent="MinGFaceView" startPc="268436278">
+        <functionEntry accessMode="public" endPc="268436311" name="getBatteryString" parent="MinGFaceView" startPc="268436284">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436320" name="initialize" parent="MinGFaceView" startPc="268436306">
+        <functionEntry accessMode="public" endPc="268436326" name="initialize" parent="MinGFaceView" startPc="268436312">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onHide" parent="MinGFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437292" name="onUpdate" parent="MinGFaceView" startPc="268436321">
+        <functionEntry accessMode="public" endPc="268437298" name="onUpdate" parent="MinGFaceView" startPc="268436327">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437351" name="getMinString" parent="MinGFaceView" startPc="268437293">
+        <functionEntry accessMode="public" endPc="268437357" name="getMinString" parent="MinGFaceView" startPc="268437299">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437500" name="getWeekStart" parent="MinGFaceView" startPc="268437352">
+        <functionEntry accessMode="public" endPc="268437506" name="getWeekStart" parent="MinGFaceView" startPc="268437358">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437503" name="onStart" parent="MinGFaceApp" startPc="268437501">
+        <functionEntry accessMode="public" endPc="268437509" name="onStart" parent="MinGFaceApp" startPc="268437507">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437517" name="onSettingsChanged" parent="MinGFaceApp" startPc="268437504">
+        <functionEntry accessMode="public" endPc="268437523" name="onSettingsChanged" parent="MinGFaceApp" startPc="268437510">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437566" name="getInitialView" parent="MinGFaceApp" startPc="268437518">
+        <functionEntry accessMode="public" endPc="268437572" name="getInitialView" parent="MinGFaceApp" startPc="268437524">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437581" name="initialize" parent="MinGFaceApp" startPc="268437567">
+        <functionEntry accessMode="public" endPc="268437587" name="initialize" parent="MinGFaceApp" startPc="268437573">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437584" name="onStop" parent="MinGFaceApp" startPc="268437582">
+        <functionEntry accessMode="public" endPc="268437590" name="onStop" parent="MinGFaceApp" startPc="268437588">
             <param id="state"/>
             <documentation/>
         </functionEntry>

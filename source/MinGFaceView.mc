@@ -281,16 +281,14 @@ class MinGFaceView extends WatchUi.WatchFace {
     function getTempString() as String 
     {
         var currConditions = Toybox.Weather.getCurrentConditions();
-        var tempC = currConditions.temperature;
-        var tempF = (tempC * 1.8) + 32;
-        var tempString = "";
-        
-        if(tempF == null) {
-            return "--";   
+        var tempF = "--";
+        if(currConditions != null && currConditions.temperature != null) {
+            tempF = ((currConditions.temperature * 1.8) + 32).format("%d");
         }
-
-        tempString = tempF.format("%.0f");
-        return tempString;
+        else {
+            tempF = "--";
+        }
+        return tempF;
     }
 
     //---- Battery Functions ----//
